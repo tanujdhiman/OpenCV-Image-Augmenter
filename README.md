@@ -2,8 +2,11 @@
 
 Steps to augment an image :
 
-1: Run this in Annaconda prompt or whatever software you are using.
+Run this in Annaconda prompt or whatever software you are using.
 
     python Image_Augmenter_code.py
 
-2: 
+Give your image path and then press enter
+Then you will different augmented images like this : 
+
+![](Original Image.PNG)
